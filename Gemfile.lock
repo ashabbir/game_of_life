@@ -2,8 +2,8 @@ GEM
   remote: https://rubygems.org/
   specs:
     ansi (1.4.3)
-    minitest (4.3.3)
-    rake (10.0.2)
+    minitest (4.5.0)
+    rake (10.0.3)
     turn (0.9.6)
       ansi
 
